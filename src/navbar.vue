@@ -18,3 +18,6 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
       </template>
     </Navbar>
 </template>
+
+
+
